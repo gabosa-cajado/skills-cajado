@@ -1,0 +1,11 @@
+{
+  "name": "skills-cajado",
+  "owner": { "name": "Gabriel Cajado" },
+  "plugins": [
+    {
+      "name": "skills-cajado",
+      "source": "./",
+      "description": "skill-trimmer audits skills, plugins and connectors and proposes what to cut; skill-router picks the right skill when several compete."
+    }
+  ]
+}
